@@ -1,0 +1,15 @@
+{
+  "name": "parcel-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/skulptur/parcel-starter.git",
+  "author": "Gustavo Spredemann <g.spredemann@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel watch index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
