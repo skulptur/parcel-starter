@@ -6,10 +6,11 @@
   "author": "Gustavo Spredemann <g.spredemann@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "parcel watch index.html",
+    "start": "parcel index.html",
     "build": "parcel build index.html"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.3"
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.4.3"
   }
 }
